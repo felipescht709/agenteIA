@@ -1,0 +1,6 @@
+2025/05/24-16:11:15.501 6e84 Reusing MANIFEST C:\projetos\agenteia-mvp\tokens\agente-ia\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/24-16:11:15.506 6e84 Recovering log #3
+2025/05/24-16:11:15.508 6e84 Reusing old log C:\projetos\agenteia-mvp\tokens\agente-ia\Default\Local Storage\leveldb/000003.log 
+2025/05/24-16:15:16.104 1bd8 Level-0 table #5: started
+2025/05/24-16:15:16.111 1bd8 Level-0 table #5: 20039 bytes OK
+2025/05/24-16:15:16.114 1bd8 Delete type=0 #3
